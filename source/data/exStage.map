@@ -1,0 +1,33 @@
+/source/img/Fase 1.png #localização do background do mapa
+120 #gold inicial
+10 10 #localização da torre "master"
+4 #numero de torres
+100 200
+40 600
+700 80
+500 500 #localização das torres
+2 #numero de rotas
+5 #num de pontos da rota 1
+60 80 #ponto 1 da rota
+40 70
+223 50
+230 40
+234 700
+4 #num de pontos da rota 2
+40 70
+223 50
+230 50
+234 700
+2 #numero de ondas
+10 #tempo até a onda chegar
+20 #numero de inimigos
+3 #tamanho da distribuição
+1 60
+2 30
+3 10#chance de cada inimigo chegar, deve somar 100%
+30
+25
+3
+1 40
+2 35
+3 25

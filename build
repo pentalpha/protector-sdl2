@@ -1,0 +1,1 @@
+g++ source/main.cpp source/Animation.cpp source/Button.cpp source/Enemy.cpp source/Game.cpp source/gameLock.cpp source/Map.cpp source/Projectile.cpp source/Sprite.cpp source/Tower.cpp source/WaveManager.cpp -o towerDefense -std=c++11 -w -lSDL2 -lSDL2_image -lSDL2_ttf
